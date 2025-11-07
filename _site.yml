@@ -244,24 +244,24 @@ navbar:
       menu:
         - text: "E-mail"
           icon: "fa-envelope"
-          href: [mailto:arthur_sf@icloud.com]
+          href: [mailto:pna.cmn@id.uff.br]
         - text: "Site"
           icon: "fa-globe"
-          href: [https://orcid.org/0000-0001-7014-2002]
+          href: [http://ppgcn.sites.uff.br]
         - text: "Instagram"
           icon: "fa-instagram"
-          href: [https://www.instagram.com/arthur.sa.ferreira]
+          href: [https://www.instagram.com/ppgnutricaouff]
         - text: "Facebook"
           icon: "fa-facebook"
-          href: [https://pt-br.facebook.com/arthur.sa.ferreira]
+          href: [https://pt-br.facebook.com/ppgcnuff]
         - text: "Observatório CAPES"
           icon: "fa-binoculars"
-          href: [https://sucupira-beta.capes.gov.br/sucupira4/observatorio/detalhamento/programas/]
+          href: [https://sucupira.capes.gov.br/observatorio/detalhamento/programas/207368]
     - text: ""
       icon: "fa-github"
       href: [https://github.com/FerreiraAS/observatorio]
 
-href: https://ferreiraas.github.io/observatorio/
+href: http://ppgcn.sites.uff.br
 
 output:
   html_document:

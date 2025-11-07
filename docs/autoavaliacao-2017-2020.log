@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.3)  3 OCT 2025 11:49
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.4)  7 NOV 2025 15:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **autoavaliacao-2017-2020.tex
 (./autoavaliacao-2017-2020.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-09-02>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk10.clo
@@ -30,7 +30,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 274.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2025/09/29 v5.0o Graphics/color driver for xetex
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -63,7 +63,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layoutvoffset=\dimen156
 \Gm@dimlist=\toks18
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2025/06/16 v2.17y AMS math features
+Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -123,8 +123,8 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \multlinegap=\skip52
 \multlinetaggap=\skip53
 \mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2949.
-LaTeX Info: Redefining \] on input line 2950.
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
@@ -136,9 +136,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/usr/local/texlive/2025/texmf-dist/tex/latex/unicode-math/unicode-math.sty 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-09-02 L3 programming layer (loader) 
+Package: expl3 2025-10-24 L3 programming layer (loader) 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2025-06-09 L3 backend support: XeTeX
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
 \g__graphics_track_int=\count295
 \g__pdfannot_backend_int=\count296
 \g__pdfannot_backend_link_int=\count297
@@ -150,10 +150,10 @@ ty
 Package: unicode-math-xetex 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLa
 TeX
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2024-08-16 L3 Experimental document command parser
+Package: xparse 2025-10-09 L3 Experimental document command parser
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.st
 y
-Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
@@ -174,7 +174,7 @@ X
 \l__fontspec_tmpb_dim=\dimen167
 \l__fontspec_tmpc_dim=\dimen168
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/
 local/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
@@ -519,7 +519,7 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip55
 \LTright=\skip56
 \LTpre=\skip57
@@ -556,7 +556,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count323
 \@thisrulewidth=\dimen183
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/array.sty
-Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen184
 \ar@mcellbox=\box61
 \extrarowheight=\dimen185
@@ -597,36 +597,35 @@ Package graphics Info: Driver file: xetex.def on input line 106.
 )
 \pandoc@box=\box64
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/10/01 v25.13 The multilingual framework for LuaLaTeX, pdfLa
+Package: babel 2025/10/22 v25.14 The multilingual framework for LuaLaTeX, pdfLa
 TeX and XeLaTeX
 \babel@savecnt=\count327
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2045.
+ne 2050.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2047.
+ne 2052.
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2049.
+e 2054.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2050.
+e 2055.
 LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2051.
+on input line 2056.
 LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2053.
+on input line 2058.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2078.
+on input line 2083.
 \U@D=\dimen191
 \l@unhyphenated=\language90
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/xebabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count328
-(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-portuges/brazilian.ldf
-Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/pt/babel-brazilian
-.tex
+.tex)
 Package babel Info: Importing font and identification data for brazilian
-(babel)             from babel-pt-BR.ini. Reported on input line 12.
-)
+(babel)             from babel-pt-BR.ini. Reported on input line 4295.
+(/usr/local/texlive/2025/texmf-dist/tex/generic/babel-portuges/brazilian.ldf
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 Package babel Info: Hyphen rules for 'brazilian' set to \l@portuguese
 (babel)             (\language72). Reported on input line 111.
 Package babel Info: Making " an active character on input line 143.
@@ -724,7 +723,7 @@ Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@dima=\skip65
 \bigstrutjot=\dimen192
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \c@tracingmulticols=\count330
 \mult@box=\box65
 \multicol@leftmargin=\dimen193
@@ -1530,44 +1529,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
 \Hy@SectionHShift=\skip110
-) (/usr/local/texlive/2025/texmf-dist/tex/latex/siunitx/siunitx.sty
-Package: siunitx 2025-07-09 v3.4.14 A comprehensive (SI) units package
-\l__siunitx_number_uncert_offset_int=\count437
-\l__siunitx_number_exponent_fixed_int=\count438
-\l__siunitx_number_min_decimal_int=\count439
-\l__siunitx_number_min_integer_int=\count440
-\l__siunitx_number_round_precision_int=\count441
-\l__siunitx_number_lower_threshold_int=\count442
-\l__siunitx_number_upper_threshold_int=\count443
-\l__siunitx_number_group_first_int=\count444
-\l__siunitx_number_group_size_int=\count445
-\l__siunitx_number_group_minimum_int=\count446
-\l__siunitx_angle_tmp_dim=\dimen399
-\l__siunitx_angle_marker_box=\box177
-\l__siunitx_angle_unit_box=\box178
-\l__siunitx_compound_count_int=\count447
-(/usr/local/texlive/2025/texmf-dist/tex/latex/translations/translations.sty
-Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
- (CN)
-)
-\l__siunitx_table_tmp_box=\box179
-\l__siunitx_table_tmp_dim=\dimen400
-\l__siunitx_table_column_width_dim=\dimen401
-\l__siunitx_table_integer_box=\box180
-\l__siunitx_table_decimal_box=\box181
-\l__siunitx_table_uncert_box=\box182
-\l__siunitx_table_before_box=\box183
-\l__siunitx_table_after_box=\box184
-\l__siunitx_table_before_dim=\dimen402
-\l__siunitx_table_carry_dim=\dimen403
-\l__siunitx_unit_tmp_int=\count448
-\l__siunitx_unit_position_int=\count449
-\l__siunitx_unit_total_int=\count450
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
 File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
-\BKM@id=\count451
+\BKM@id=\count437
 )) (/usr/local/texlive/2025/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
 ) (./autoavaliacao-2017-2020.aux
@@ -1594,26 +1560,26 @@ LaTeX Warning: Label `tab:turmas' multiply defined.
 )
 \openout1 = `autoavaliacao-2017-2020.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1649,19 +1615,19 @@ LaTeX Font Info:    ... okay on input line 195.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 195.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 185.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 195.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 185.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 195.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 185.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 195.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 185.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 195.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 185.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 195.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 185.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 195.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 185.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999964596882403.
@@ -1692,7 +1658,7 @@ pt=math;language=dflt;"
 pt=math;language=dflt;"
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 195.
+(Font)              scaled to size 10.0pt on input line 185.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999964596882403.
@@ -1735,18 +1701,18 @@ ath.otf]/OT:script=math;language=dflt;+ssty=1;"
 pt=math;language=dflt;"
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 195.
+(Font)              scaled to size 10.0pt on input line 185.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 195.
+(Font)              `operators' in the math version `normal' on input line 185.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 195.
+ line 185.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 195.
+(Font)              `operators' in the math version `bold' on input line 185.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 195.
+t line 185.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999964596882403.
@@ -1820,15 +1786,15 @@ ript=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT
 t=math;language=dflt;"
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 195.
+(Font)              `symbols' in the math version `normal' on input line 185.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 195.
+t line 185.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 195.
+(Font)              `symbols' in the math version `bold' on input line 185.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 195.
+t line 185.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999964596882403.
@@ -1897,26 +1863,26 @@ pt=math;language=dflt;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 1
-95.
+85.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 195.
+t line 185.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 195
+(Font)              `largesymbols' in the math version `bold' on input line 185
 .
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 195.
+t line 185.
 Package microtype Info: Patching varwidth to enable character protrusion.
-\MT@vwid@leftmargin=\dimen404
-\MT@vwid@rightmargin=\dimen405
-LaTeX Info: Redefining \microtypecontext on input line 195.
-Package microtype Info: Applying patch `item' on input line 195.
-Package microtype Info: Applying patch `toc' on input line 195.
-Package microtype Info: Applying patch `eqnum' on input line 195.
-Package microtype Info: Applying patch `footnote' on input line 195.
-Package microtype Info: Applying patch `verbatim' on input line 195.
-LaTeX Info: Redefining \microtypesetup on input line 195.
+\MT@vwid@leftmargin=\dimen399
+\MT@vwid@rightmargin=\dimen400
+LaTeX Info: Redefining \microtypecontext on input line 185.
+Package microtype Info: Applying patch `item' on input line 185.
+Package microtype Info: Applying patch `toc' on input line 185.
+Package microtype Info: Applying patch `eqnum' on input line 185.
+Package microtype Info: Applying patch `footnote' on input line 185.
+Package microtype Info: Applying patch `verbatim' on input line 185.
+LaTeX Info: Redefining \microtypesetup on input line 185.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
@@ -1927,48 +1893,36 @@ Package microtype Info: No adjustment of kerning.
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
 ern Roman (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 195.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/translations/translations-basic-d
-ictionary-brazil.trsl
-File: translations-basic-dictionary-brazil.trsl (brazil translation file `trans
-lations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `brazil'. on input line 195.
+Package hyperref Info: Link coloring OFF on input line 185.
 File: PPG/Images/Cover-1.pdf Graphic file (type pdf)
-<PPG/Images/Cover-1.pdf>
+<use PPG/Images/Cover-1.pdf>
 File: PPG/Images/Cover-1.pdf Graphic file (type pdf)
-<PPG/Images/Cover-1.pdf>
+<use PPG/Images/Cover-1.pdf, page 1>
 File: PPG/Images/Cover-1.pdf Graphic file (type pdf)
-<PPG/Images/Cover-1.pdf>
+<use PPG/Images/Cover-1.pdf, page 1>
 File: PPG/Images/Cover-1.pdf Graphic file (type pdf)
-<PPG/Images/Cover-1.pdf>
+<use PPG/Images/Cover-1.pdf, page 1>
 File: PPG/Images/Cover-1.pdf Graphic file (type pdf)
-<PPG/Images/Cover-1.pdf>
-
-
+<use PPG/Images/Cover-1.pdf, page 1>
 File: PPG/Images/Cover-1.pdf Graphic file (type pdf)
-<PPG/Images/Cover-1.pdf>
+<use PPG/Images/Cover-1.pdf, page 1>
 [1
 
 
 
 ]
 File: PPG/Images/Cover-2.pdf Graphic file (type pdf)
-<PPG/Images/Cover-2.pdf>
+<use PPG/Images/Cover-2.pdf>
 File: PPG/Images/Cover-2.pdf Graphic file (type pdf)
-<PPG/Images/Cover-2.pdf>
+<use PPG/Images/Cover-2.pdf, page 1>
 File: PPG/Images/Cover-2.pdf Graphic file (type pdf)
-<PPG/Images/Cover-2.pdf>
+<use PPG/Images/Cover-2.pdf, page 1>
 File: PPG/Images/Cover-2.pdf Graphic file (type pdf)
-<PPG/Images/Cover-2.pdf>
+<use PPG/Images/Cover-2.pdf, page 1>
 File: PPG/Images/Cover-2.pdf Graphic file (type pdf)
-<PPG/Images/Cover-2.pdf>
-
-
+<use PPG/Images/Cover-2.pdf, page 1>
 File: PPG/Images/Cover-2.pdf Graphic file (type pdf)
-<PPG/Images/Cover-2.pdf>
+<use PPG/Images/Cover-2.pdf, page 1>
 [2
 
 ] (./autoavaliacao-2017-2020.toc
@@ -2008,1004 +1962,1010 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 \tf@toc=\write4
 \openout4 = `autoavaliacao-2017-2020.toc'.
 
-
-
-[3]
-
-[1
+[3] [1
 
 
 
-]
-
-[2]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 289--289
+] [2]
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 280--280
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 289--289
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 280--280
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 289--289
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 280--280
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 289--289
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 280--280
 []\TU/lmr/bx/n/10 2020|  
  []
 
 
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 279--290
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 270--281
  [][] 
  []
 
-
-
 [3]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 315--315
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 306--306
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 315--315
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 306--306
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 315--315
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 306--306
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 315--315
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 306--306
 []\TU/lmr/bx/n/10 2020|  
  []
 
 
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 299--316
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 290--307
  [][] 
  []
-
-
 
 [4]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 356--356
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 347--347
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 356--356
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 347--347
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 356--356
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 347--347
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 356--356
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 347--347
 []\TU/lmr/bx/n/10 2020|  
  []
 
 
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 325--357
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 316--348
  [][] 
  []
 
-
-
 [5]
-Underfull \hbox (badness 1112) in paragraph at lines 408--408
+Underfull \hbox (badness 1112) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Ambulatório De Nutrição Renal Da
  []
 
 
-Underfull \hbox (badness 4660) in paragraph at lines 408--408
+Underfull \hbox (badness 4660) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Avaliação Do Risco Cardiovascular,
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 408--408
+Underfull \hbox (badness 1796) in paragraph at lines 400--400
 \TU/lmr/m/n/10 num Usitatissinum) Na Composição
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Efeitos Da Suplementação Com
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 408--408
+Underfull \hbox (badness 1953) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Castanha-Do-Brasil (Bertholletia Ex-
  []
 
 
-Underfull \hbox (badness 2753) in paragraph at lines 408--408
+Underfull \hbox (badness 2753) in paragraph at lines 400--400
 \TU/lmr/m/n/10 pressão Dos Fatores Transcricionais
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Efeitos Da Suplementação Com
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 408--408
+Underfull \hbox (badness 1953) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Castanha-Do-Brasil (Bertholletia Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Consumo Alimentar e Alimentos
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 408--408
+Underfull \hbox (badness 1253) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Mais Consumidos: Análise Do Mo-
  []
 
 
-Underfull \hbox (badness 8056) in paragraph at lines 408--408
+Underfull \hbox (badness 8056) in paragraph at lines 400--400
 \TU/lmr/m/n/10 dulo De Consumo Individual Da
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 408--408
+Underfull \hbox (badness 2478) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Pesquisa De Orçamentos Familiares
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 408--408
+Underfull \hbox (badness 2376) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Marcadores Hemodinâmicos, Função
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Influência De Fatores Sócio-
  []
 
 
-Underfull \hbox (badness 3930) in paragraph at lines 408--408
+Underfull \hbox (badness 3930) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Econômicos, Culturais e Dietéticos
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 408--408
+Underfull \hbox (badness 1137) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Manutenção Da Absorptiometria De
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 408--408
+Underfull \hbox (badness 1231) in paragraph at lines 400--400
 \TU/lmr/m/n/10 ção Do Programa Nacional De Ali-
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 408--408
+Underfull \hbox (badness 1478) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Influência De Uma Dieta Contendo
  []
 
 
-Underfull \hbox (badness 4441) in paragraph at lines 408--408
+Underfull \hbox (badness 4441) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Práticas Alimentares e Concepções
  []
 
 
-Underfull \hbox (badness 4805) in paragraph at lines 408--408
+Underfull \hbox (badness 4805) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Sobre Amamentação De Puérperas
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 408--408
+Underfull \hbox (badness 1112) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Ambulatório De Nutrição Renal Da
  []
 
 
-Underfull \hbox (badness 4660) in paragraph at lines 408--408
+Underfull \hbox (badness 4660) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Avaliação Do Risco Cardiovascular,
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 408--408
+Underfull \hbox (badness 1796) in paragraph at lines 400--400
 \TU/lmr/m/n/10 num Usitatissinum) Na Composição
  []
-
-
 
 [6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Efeitos Da Suplementação Com
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 408--408
+Underfull \hbox (badness 1953) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Castanha-Do-Brasil (Bertholletia Ex-
  []
 
 
-Underfull \hbox (badness 2753) in paragraph at lines 408--408
+Underfull \hbox (badness 2753) in paragraph at lines 400--400
 \TU/lmr/m/n/10 pressão Dos Fatores Transcricionais
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Efeitos Da Suplementação Com
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 408--408
+Underfull \hbox (badness 1953) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Castanha-Do-Brasil (Bertholletia Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Consumo Alimentar e Alimentos
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 408--408
+Underfull \hbox (badness 1253) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Mais Consumidos: Análise Do Mo-
  []
 
 
-Underfull \hbox (badness 8056) in paragraph at lines 408--408
+Underfull \hbox (badness 8056) in paragraph at lines 400--400
 \TU/lmr/m/n/10 dulo De Consumo Individual Da
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 408--408
+Underfull \hbox (badness 2478) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Pesquisa De Orçamentos Familiares
  []
 
-
-
 [7]
-Underfull \hbox (badness 2376) in paragraph at lines 408--408
+Underfull \hbox (badness 2376) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Marcadores Hemodinâmicos, Função
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Influência De Fatores Sócio-
  []
 
 
-Underfull \hbox (badness 3930) in paragraph at lines 408--408
+Underfull \hbox (badness 3930) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Econômicos, Culturais e Dietéticos
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 408--408
+Underfull \hbox (badness 1137) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Manutenção Da Absorptiometria De
  []
 
-
-
 [8]
-Underfull \hbox (badness 1231) in paragraph at lines 408--408
+Underfull \hbox (badness 1231) in paragraph at lines 400--400
 \TU/lmr/m/n/10 ção Do Programa Nacional De Ali-
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 408--408
+Underfull \hbox (badness 1478) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Influência De Uma Dieta Contendo
  []
 
 
-Underfull \hbox (badness 4441) in paragraph at lines 408--408
+Underfull \hbox (badness 4441) in paragraph at lines 400--400
 []\TU/lmr/m/n/10 Práticas Alimentares e Concepções
  []
 
 
-Underfull \hbox (badness 4805) in paragraph at lines 408--408
+Underfull \hbox (badness 4805) in paragraph at lines 400--400
 \TU/lmr/m/n/10 Sobre Amamentação De Puérperas
  []
 
-
-
-[9]
-
-[10]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 421--441
+[9] [10]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 413--433
  [][] 
  []
-
-
 
 [11
 
 ]
-Underfull \hbox (badness 3128) in paragraph at lines 479--479
+Underfull \hbox (badness 3128) in paragraph at lines 472--472
 []\TU/lmr/bx/n/10 DESENVOLVIMENTO DE ALIMENTOS PARA
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 479--479
+Underfull \hbox (badness 1946) in paragraph at lines 472--472
 []\TU/lmr/bx/n/10 MÉTODOS QUANTITATIVOS PARA ANÁLISE
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 479--479
+Underfull \hbox (badness 3128) in paragraph at lines 472--472
 []\TU/lmr/bx/n/10 DESENVOLVIMENTO DE ALIMENTOS PARA
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 479--479
+Underfull \hbox (badness 1946) in paragraph at lines 472--472
 []\TU/lmr/bx/n/10 MÉTODOS QUANTITATIVOS PARA ANÁLISE
  []
-
-
 
 [12
 
 ]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 517--517
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 510--510
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 517--517
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 510--510
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 517--517
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 510--510
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 517--517
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 510--510
 []\TU/lmr/bx/n/10 2020|  
  []
 
 
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 495--518
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 488--511
  [][] 
  []
-
-
 
 [13
 
 ]
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 531--553
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 524--546
  [][] 
  []
-
-
 
 [14]
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 562--579
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 555--572
  [][] 
  []
 
-
-
 [15]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 621--621
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 614--614
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 621--621
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 614--614
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 621--621
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 614--614
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 621--621
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 614--614
 []\TU/lmr/bx/n/10 2020|  
  []
 
 
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 591--622
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 584--615
  [][] 
  []
-
-
 
 [16]
-Overfull \hbox (7.17795pt too wide) in paragraph at lines 637--665
+Overfull \hbox (7.17795pt too wide) in paragraph at lines 630--658
  [][] 
  []
-
-
 
 [17
 
 ]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 706--706
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 699--699
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 706--706
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 699--699
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 706--706
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 699--699
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 706--706
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 699--699
 []\TU/lmr/bx/n/10 2020|  
  []
-
-
 
 [18
 
 ]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 741--741
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 734--734
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 741--741
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 734--734
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 741--741
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 734--734
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 741--741
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 734--734
 []\TU/lmr/bx/n/10 2020|  
  []
-
-
 
 [19]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 776--776
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 769--769
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 776--776
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 769--769
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 776--776
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 769--769
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 776--776
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 769--769
 []\TU/lmr/bx/n/10 2020|  
  []
 
+[20] [21
 
 
-[20]
+] [22] [23
 
-[21
+] [24
+
+] [25]
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 859--859
+[]\TU/lmr/bx/n/10 2017|  
+ []
 
 
-]
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 859--859
+[]\TU/lmr/bx/n/10 2018|  
+ []
 
-[22]
 
-[23
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 859--859
+[]\TU/lmr/bx/n/10 2019|  
+ []
 
-]
 
-[24
-
-]
-
-[25]
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 859--859
+[]\TU/lmr/bx/n/10 2020|  
+ []
 
 [26
 
 ]
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 911--911
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
 
-[27
+
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 911--911
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
+
+[27] [28
 
 ]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 885--885
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 948--948
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 885--885
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 948--948
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 885--885
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 948--948
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 885--885
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 948--948
 []\TU/lmr/bx/n/10 2020|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 904--904
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 967--967
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 904--904
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 967--967
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 904--904
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 967--967
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 904--904
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 967--967
 []\TU/lmr/bx/n/10 2020|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 920--920
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 983--983
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 920--920
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 983--983
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 920--920
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 983--983
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 920--920
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 983--983
 []\TU/lmr/bx/n/10 2020|  
  []
-
-
-
-[28]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 950--950
-[]\TU/lmr/bx/n/10 2017|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 950--950
-[]\TU/lmr/bx/n/10 2018|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 950--950
-[]\TU/lmr/bx/n/10 2019|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 950--950
-[]\TU/lmr/bx/n/10 2020|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 969--969
-[]\TU/lmr/bx/n/10 2017|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 969--969
-[]\TU/lmr/bx/n/10 2018|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 969--969
-[]\TU/lmr/bx/n/10 2019|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 969--969
-[]\TU/lmr/bx/n/10 2020|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 985--985
-[]\TU/lmr/bx/n/10 2017|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 985--985
-[]\TU/lmr/bx/n/10 2018|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 985--985
-[]\TU/lmr/bx/n/10 2019|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 985--985
-[]\TU/lmr/bx/n/10 2020|  
- []
-
-
 
 [29]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1011--1011
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1013--1013
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1011--1011
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1013--1013
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1011--1011
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1013--1013
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1011--1011
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1013--1013
 []\TU/lmr/bx/n/10 2020|  
  []
 
 
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 998--1012
- [][] 
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1032--1032
+[]\TU/lmr/bx/n/10 2017|  
  []
 
 
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1032--1032
+[]\TU/lmr/bx/n/10 2018|  
+ []
+
+
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1032--1032
+[]\TU/lmr/bx/n/10 2019|  
+ []
+
+
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1032--1032
+[]\TU/lmr/bx/n/10 2020|  
+ []
+
+
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1048--1048
+[]\TU/lmr/bx/n/10 2017|  
+ []
+
+
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1048--1048
+[]\TU/lmr/bx/n/10 2018|  
+ []
+
+
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1048--1048
+[]\TU/lmr/bx/n/10 2019|  
+ []
+
+
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1048--1048
+[]\TU/lmr/bx/n/10 2020|  
+ []
 
 [30]
-
-[31]
-
-[32]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1084--1084
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1074--1074
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1084--1084
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1074--1074
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1084--1084
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1074--1074
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1084--1084
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1074--1074
 []\TU/lmr/bx/n/10 2020|  
  []
 
 
-
-[33]
-
-[34
-
-]
-
-[35]
-
-[36]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1226--1226
-[]\TU/lmr/bx/n/10 2017|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1226--1226
-[]\TU/lmr/bx/n/10 2018|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1226--1226
-[]\TU/lmr/bx/n/10 2019|  
- []
-
-
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1226--1226
-[]\TU/lmr/bx/n/10 2020|  
- []
-
-
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 1201--1227
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 1061--1075
  [][] 
  []
 
-
-
-[37
-
-]
-Underfull \hbox (badness 1642) in paragraph at lines 1264--1264
-[]\TU/lmr/bx/n/10 Alexandra Anastacio Monteiro
+[31] [32] [33]
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1148--1148
+[]\TU/lmr/bx/n/10 2017|  
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 1264--1264
-[]\TU/lmr/bx/n/10 Ana Beatriz Franco Sena Si-
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1148--1148
+[]\TU/lmr/bx/n/10 2018|  
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 1264--1264
-[]\TU/lmr/bx/n/10 Luciene Burlandy Campos De
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1148--1148
+[]\TU/lmr/bx/n/10 2019|  
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 1264--1264
-[]\TU/lmr/bx/n/10 Alexandra Anastacio Monteiro
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1148--1148
+[]\TU/lmr/bx/n/10 2020|  
+ []
+
+[34] [35
+
+] [36] [37]
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1290--1290
+[]\TU/lmr/bx/n/10 2017|  
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 1264--1264
-[]\TU/lmr/bx/n/10 Ana Beatriz Franco Sena Si-
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1290--1290
+[]\TU/lmr/bx/n/10 2018|  
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 1264--1264
-[]\TU/lmr/bx/n/10 Luciene Burlandy Campos De
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1290--1290
+[]\TU/lmr/bx/n/10 2019|  
  []
 
 
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1290--1290
+[]\TU/lmr/bx/n/10 2020|  
+ []
+
+
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 1265--1291
+ [][] 
+ []
 
 [38
 
 ]
+Underfull \hbox (badness 1642) in paragraph at lines 1329--1329
+[]\TU/lmr/bx/n/10 Alexandra Anastacio Monteiro
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 1329--1329
+[]\TU/lmr/bx/n/10 Ana Beatriz Franco Sena Si-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 1329--1329
+[]\TU/lmr/bx/n/10 Luciene Burlandy Campos De
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 1329--1329
+[]\TU/lmr/bx/n/10 Alexandra Anastacio Monteiro
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 1329--1329
+[]\TU/lmr/bx/n/10 Ana Beatriz Franco Sena Si-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 1329--1329
+[]\TU/lmr/bx/n/10 Luciene Burlandy Campos De
+ []
 
 [39
 
+] [40
 
-]
 
-[40]
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+] [41]
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2017|  
  []
 
 
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2018|  
  []
 
 
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2019|  
  []
 
 
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2020|  
  []
 
 
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2017|  
  []
 
 
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2018|  
  []
 
 
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2019|  
  []
 
 
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2020|  
  []
 
 
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2017|  
  []
 
 
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2018|  
  []
 
 
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2019|  
  []
 
 
-Overfull \hbox (8.84317pt too wide) in paragraph at lines 1393--1393
+Overfull \hbox (8.84317pt too wide) in paragraph at lines 1458--1458
 []\TU/lmr/m/n/10 2020|  
  []
 
 
-Overfull \hbox (3.10945pt too wide) in paragraph at lines 1365--1394
+Overfull \hbox (3.10945pt too wide) in paragraph at lines 1430--1459
  [][] 
  []
 
+[42
 
 
-[41
-
-
-]
-
-[42]
-Overfull \hbox (37.73654pt too wide) in paragraph at lines 1440--1468
+] [43]
+Overfull \hbox (37.73654pt too wide) in paragraph at lines 1505--1533
  [][] 
  []
 
+[44] [45
 
-
-[43]
-
-[44
-
-]
-
-[45]
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1539--1539
+] [46]
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1604--1604
 []\TU/lmr/bx/n/10 2017|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1539--1539
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1604--1604
 []\TU/lmr/bx/n/10 2018|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1539--1539
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1604--1604
 []\TU/lmr/bx/n/10 2019|  
  []
 
 
-Overfull \hbox (1.66045pt too wide) in paragraph at lines 1539--1539
+Overfull \hbox (1.66045pt too wide) in paragraph at lines 1604--1604
 []\TU/lmr/bx/n/10 2020|  
  []
 
 
-Overfull \hbox (27.09439pt too wide) in paragraph at lines 1495--1540
+Overfull \hbox (27.09439pt too wide) in paragraph at lines 1560--1605
  [][] 
  []
-
-
-
-[46]
-Overfull \hbox (15.09442pt too wide) in paragraph at lines 1553--1602
- [][] 
- []
-
-
 
 [47]
+Overfull \hbox (15.09442pt too wide) in paragraph at lines 1618--1667
+ [][] 
+ []
 
 [48]
-File: site.png Graphic file (type bmp)
-<site.png>
-
-
-[49]
-File: observatorio.png Graphic file (type bmp)
-<observatorio.png>
-
-
-[50]
-Underfull \hbox (badness 10000) in paragraph at lines 1668--1668
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+Underfull \hbox (badness 10000) in paragraph at lines 1695--1695
+[]\TU/lmr/m/n/10 Longitudinal Association Of 25-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1668--1668
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+Underfull \hbox (badness 1418) in paragraph at lines 1695--1695
+\TU/lmr/m/n/10 Hydroxyvitamin D With Adipokines And
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1668--1668
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+Underfull \hbox (badness 3428) in paragraph at lines 1695--1695
+\TU/lmr/m/n/10 Markers Of Glucose Metabolism Among
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1668--1668
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+Underfull \hbox (badness 10000) in paragraph at lines 1695--1695
+[]\TU/lmr/m/n/10 Longitudinal Association Of 25-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1668--1668
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+Underfull \hbox (badness 1418) in paragraph at lines 1695--1695
+\TU/lmr/m/n/10 Hydroxyvitamin D With Adipokines And
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1668--1668
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+Underfull \hbox (badness 3428) in paragraph at lines 1695--1695
+\TU/lmr/m/n/10 Markers Of Glucose Metabolism Among
+ []
+
+[49
+
+] [50]
+Underfull \hbox (badness 5119) in paragraph at lines 1744--1744
+[]\TU/lmr/m/n/10 Could Low-Protein Diet Modulate Nrf2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1668--1668
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+Underfull \hbox (badness 5119) in paragraph at lines 1744--1744
+[]\TU/lmr/m/n/10 Could Low-Protein Diet Modulate Nrf2
+ []
+
+[51]
+Underfull \hbox (badness 5119) in paragraph at lines 1781--1781
+[]\TU/lmr/m/n/10 Could Low-Protein Diet Modulate Nrf2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1668--1668
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+Underfull \hbox (badness 5119) in paragraph at lines 1781--1781
+[]\TU/lmr/m/n/10 Could Low-Protein Diet Modulate Nrf2
+ []
+
+[52] [53] [54]
+Overfull \hbox (17.5824pt too wide) in paragraph at lines 1833--1833
+[]\TU/lmr/bx/n/10 YouTube/Vimeo 
  []
 
 
+Overfull \hbox (17.5824pt too wide) in paragraph at lines 1833--1833
+[]\TU/lmr/bx/n/10 YouTube/Vimeo 
+ []
 
-[51
+[55]
+Underfull \hbox (badness 5119) in paragraph at lines 1866--1866
+[]\TU/lmr/m/n/10 Could Low-Protein Diet Modulate Nrf2
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 1866--1866
+[]\TU/lmr/m/n/10 Could Low-Protein Diet Modulate Nrf2
+ []
+
+[56] [57]
+Underfull \hbox (badness 5119) in paragraph at lines 1899--1899
+[]\TU/lmr/m/n/10 Could Low-Protein Diet Modulate Nrf2
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 1899--1899
+[]\TU/lmr/m/n/10 Could Low-Protein Diet Modulate Nrf2
+ []
+
+[58] [59] [60
 
 ]
+File: site.png Graphic file (type bmp)
+<site.png>
+[61]
+File: observatorio.png Graphic file (type bmp)
+<observatorio.png>
+[62]
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1971
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
 
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 1699--1699
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1971
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1971
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1971
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1971
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1971
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1971
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1971
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+[63
+
+] [64]
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2003
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1699--1699
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2003
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1699--1699
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2003
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 1699--1699
+Underfull \hbox (badness 1983) in paragraph at lines 2003--2003
 []\TU/lmr/m/n/10 ISABEL DE PAULA ANTUNES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1699--1699
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2003
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1699--1699
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2003
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1699--1699
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2003
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 1699--1699
+Underfull \hbox (badness 1983) in paragraph at lines 2003--2003
 []\TU/lmr/m/n/10 ISABEL DE PAULA ANTUNES
  []
 
-
-
-[53] (./autoavaliacao-2017-2020.aux)
+[65] (./autoavaliacao-2017-2020.aux)
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-09-02>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
  ***********
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 46082 strings out of 468389
- 964676 string characters out of 5440620
- 1643893 words of memory out of 5000000
- 73950 multiletter control sequences out of 15000+600000
- 631768 words of font info for 78 fonts, out of 8000000 for 9000
+ 42310 strings out of 468179
+ 842687 string characters out of 5433207
+ 1564758 words of memory out of 5000000
+ 70397 multiletter control sequences out of 15000+600000
+ 631776 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,16n,126p,1212b,3158s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,19n,126p,1212b,2557s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao-2017-2020.pdf (56 pages).
+Output written on autoavaliacao-2017-2020.pdf (68 pages).
