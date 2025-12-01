@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.27)  1 DEC 2025 10:31
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.27)  1 DEC 2025 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2779,7 +2779,7 @@ Overfull \hbox (27.09439pt too wide) in paragraph at lines 1560--1605
  []
 
 [47]
-Overfull \hbox (15.09442pt too wide) in paragraph at lines 1618--1667
+Overfull \hbox (15.09442pt too wide) in paragraph at lines 1618--1669
  [][] 
  []
 
@@ -2793,84 +2793,84 @@ File: site.png Graphic file (type bmp)
 File: observatorio.png Graphic file (type bmp)
 <observatorio.png>
 [51]
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1770
+Underfull \hbox (badness 10000) in paragraph at lines 1772--1772
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1770
+Underfull \hbox (badness 10000) in paragraph at lines 1772--1772
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1770
+Underfull \hbox (badness 10000) in paragraph at lines 1772--1772
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1770
+Underfull \hbox (badness 10000) in paragraph at lines 1772--1772
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1770
+Underfull \hbox (badness 10000) in paragraph at lines 1772--1772
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1770
+Underfull \hbox (badness 10000) in paragraph at lines 1772--1772
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1770
+Underfull \hbox (badness 10000) in paragraph at lines 1772--1772
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1770
+Underfull \hbox (badness 10000) in paragraph at lines 1772--1772
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 [52
 
 ] [53]
-Underfull \hbox (badness 10000) in paragraph at lines 1802--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1804
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1802--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1804
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1802--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1804
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 1802--1802
+Underfull \hbox (badness 1983) in paragraph at lines 1804--1804
 []\TU/lmr/m/n/10 ISABEL DE PAULA ANTUNES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1802--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1804
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1802--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1804
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1802--1802
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1804
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 1802--1802
+Underfull \hbox (badness 1983) in paragraph at lines 1804--1804
 []\TU/lmr/m/n/10 ISABEL DE PAULA ANTUNES
  []
 
@@ -2884,10 +2884,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 42283 strings out of 468179
- 842778 string characters out of 5433206
+ 42287 strings out of 468179
+ 842818 string characters out of 5433206
  1565432 words of memory out of 5000000
- 70370 multiletter control sequences out of 15000+600000
+ 70374 multiletter control sequences out of 15000+600000
  631776 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,19n,126p,1212b,2557s stack positions out of 10000i,1000n,20000p,200000b,200000s

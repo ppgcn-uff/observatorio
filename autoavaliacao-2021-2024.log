@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.27)  1 DEC 2025 10:33
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.27)  1 DEC 2025 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2589,7 +2589,7 @@ Overfull \hbox (27.09439pt too wide) in paragraph at lines 1693--1740
  []
 
 [51]
-Overfull \hbox (15.09442pt too wide) in paragraph at lines 1753--1802
+Overfull \hbox (15.09442pt too wide) in paragraph at lines 1753--1804
  [][] 
  []
 
@@ -2603,94 +2603,94 @@ File: site.png Graphic file (type bmp)
 File: observatorio.png Graphic file (type bmp)
 <observatorio.png>
 [55]
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1902
+Underfull \hbox (badness 10000) in paragraph at lines 1904--1904
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1902
+Underfull \hbox (badness 10000) in paragraph at lines 1904--1904
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1902
+Underfull \hbox (badness 10000) in paragraph at lines 1904--1904
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1902
+Underfull \hbox (badness 10000) in paragraph at lines 1904--1904
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1902
+Underfull \hbox (badness 10000) in paragraph at lines 1904--1904
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1902
+Underfull \hbox (badness 10000) in paragraph at lines 1904--1904
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 [56
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1923--1923
+Underfull \hbox (badness 10000) in paragraph at lines 1925--1925
 []\TU/lmr/m/n/10 Collaborating profes-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1923--1923
+Underfull \hbox (badness 10000) in paragraph at lines 1925--1925
 []\TU/lmr/m/n/10 Collaborating profes-
  []
 
 [57]
-Underfull \hbox (badness 10000) in paragraph at lines 1946--1946
+Underfull \hbox (badness 10000) in paragraph at lines 1948--1948
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1946--1946
+Underfull \hbox (badness 10000) in paragraph at lines 1948--1948
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1946--1946
+Underfull \hbox (badness 10000) in paragraph at lines 1948--1948
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 1946--1946
+Underfull \hbox (badness 5726) in paragraph at lines 1948--1948
 []\TU/lmr/m/n/10 MILENA BARCZA STOCKLER
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 1946--1946
+Underfull \hbox (badness 1983) in paragraph at lines 1948--1948
 []\TU/lmr/m/n/10 ISABEL DE PAULA ANTUNES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1946--1946
+Underfull \hbox (badness 10000) in paragraph at lines 1948--1948
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1946--1946
+Underfull \hbox (badness 10000) in paragraph at lines 1948--1948
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1946--1946
+Underfull \hbox (badness 10000) in paragraph at lines 1948--1948
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 1946--1946
+Underfull \hbox (badness 5726) in paragraph at lines 1948--1948
 []\TU/lmr/m/n/10 MILENA BARCZA STOCKLER
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 1946--1946
+Underfull \hbox (badness 1983) in paragraph at lines 1948--1948
 []\TU/lmr/m/n/10 ISABEL DE PAULA ANTUNES
  []
 
@@ -2704,10 +2704,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 42583 strings out of 468179
- 849459 string characters out of 5433206
+ 42587 strings out of 468179
+ 849499 string characters out of 5433206
  1570018 words of memory out of 5000000
- 70670 multiletter control sequences out of 15000+600000
+ 70674 multiletter control sequences out of 15000+600000
  631776 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,19n,126p,1212b,3209s stack positions out of 10000i,1000n,20000p,200000b,200000s
