@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.27)  2 DEC 2025 14:52
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.14)  18 DEC 2025 13:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,23 +597,23 @@ Package graphics Info: Driver file: xetex.def on input line 106.
 )
 \pandoc@box=\box64
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/11/23 v25.16 The multilingual framework for LuaLaTeX, pdfLa
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
 TeX and XeLaTeX
 \babel@savecnt=\count327
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2050.
+ne 2068.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2052.
+ne 2070.
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2054.
+e 2072.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2055.
+e 2073.
 LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2056.
+on input line 2074.
 LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2058.
+on input line 2076.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2083.
+on input line 2101.
 \U@D=\dimen191
 \l@unhyphenated=\language90
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/xebabel.def)
@@ -623,7 +623,7 @@ on input line 2083.
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/locale/pt/babel-brazilian
 .tex)
 Package babel Info: Importing font and identification data for brazilian
-(babel)             from babel-pt-BR.ini. Reported on input line 4298.
+(babel)             from babel-pt-BR.ini. Reported on input line 4320.
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel-portuges/brazilian.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 Package babel Info: Hyphen rules for 'brazilian' set to \l@portuguese
@@ -1042,7 +1042,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
 \ESO@tempdima=\dimen338
 \ESO@tempdimb=\dimen339
 )
@@ -2593,108 +2593,209 @@ Overfull \hbox (15.09442pt too wide) in paragraph at lines 1767--1818
  [][] 
  []
 
-[52] [53
+[52]
+Underfull \hbox (badness 7631) in paragraph at lines 1841--1841
+[]\TU/lmr/m/n/10 Can Curcumin Supplementation Reduce
+ []
 
+
+Underfull \hbox (badness 7631) in paragraph at lines 1841--1841
+[]\TU/lmr/m/n/10 Can Curcumin Supplementation Reduce
+ []
+
+[53
+
+]
+Underfull \hbox (badness 2150) in paragraph at lines 1865--1865
+[]\TU/lmr/m/n/10 International Norms For Adult Handgrip
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 1865--1865
+[]\TU/lmr/m/n/10 International Norms For Adult Handgrip
+ []
+
+[54]
+Underfull \hbox (badness 2150) in paragraph at lines 1892--1892
+[]\TU/lmr/m/n/10 International Norms For Adult Handgrip
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 1892--1892
+[]\TU/lmr/m/n/10 International Norms For Adult Handgrip
+ []
+
+[55]
+Underfull \hbox (badness 7631) in paragraph at lines 1930--1930
+[]\TU/lmr/m/n/10 Can Curcumin Supplementation Reduce
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 1930--1930
+[]\TU/lmr/m/n/10 Impact Of Brazil Nut ( Bertholletia Ex-
+ []
+
+
+Underfull \hbox (badness 7631) in paragraph at lines 1930--1930
+[]\TU/lmr/m/n/10 Can Curcumin Supplementation Reduce
+ []
+
+[56]
+Underfull \hbox (badness 1377) in paragraph at lines 1930--1930
+[]\TU/lmr/m/n/10 Impact Of Brazil Nut ( Bertholletia Ex-
+ []
+
+[57] [58]
+Overfull \hbox (17.5824pt too wide) in paragraph at lines 1984--1984
+[]\TU/lmr/bx/n/10 YouTube/Vimeo 
+ []
+
+
+Overfull \hbox (17.5824pt too wide) in paragraph at lines 1984--1984
+[]\TU/lmr/bx/n/10 YouTube/Vimeo 
+ []
+
+[59]
+Underfull \hbox (badness 1584) in paragraph at lines 2021--2021
+\TU/lmr/m/n/10 Strategy For Non-Communicable Diseases:
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 2021--2021
+\TU/lmr/m/n/10 Optimized Extraction, Metabolomic Scree-
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 2021--2021
+\TU/lmr/m/n/10 Strategy For Non-Communicable Diseases:
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 2021--2021
+\TU/lmr/m/n/10 Optimized Extraction, Metabolomic Scree-
+ []
+
+[60] [61]
+Underfull \hbox (badness 1584) in paragraph at lines 2056--2056
+\TU/lmr/m/n/10 Strategy For Non-Communicable Diseases:
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 2056--2056
+\TU/lmr/m/n/10 Optimized Extraction, Metabolomic Scree-
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 2056--2056
+\TU/lmr/m/n/10 Strategy For Non-Communicable Diseases:
+ []
+
+[62]
+Underfull \hbox (badness 1019) in paragraph at lines 2056--2056
+\TU/lmr/m/n/10 Optimized Extraction, Metabolomic Scree-
+ []
+
+[63] [64
 
 ]
 File: site.png Graphic file (type bmp)
 <site.png>
-[54]
+[65]
 File: observatorio.png Graphic file (type bmp)
 <observatorio.png>
-[55]
-Underfull \hbox (badness 10000) in paragraph at lines 1918--1918
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 2125--2125
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1918--1918
+Underfull \hbox (badness 10000) in paragraph at lines 2125--2125
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1918--1918
+Underfull \hbox (badness 10000) in paragraph at lines 2125--2125
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1918--1918
+Underfull \hbox (badness 10000) in paragraph at lines 2125--2125
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1918--1918
+Underfull \hbox (badness 10000) in paragraph at lines 2125--2125
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1918--1918
+Underfull \hbox (badness 10000) in paragraph at lines 2125--2125
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
-[56
+[67
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1939--1939
+Underfull \hbox (badness 10000) in paragraph at lines 2146--2146
 []\TU/lmr/m/n/10 Collaborating profes-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1939--1939
+Underfull \hbox (badness 10000) in paragraph at lines 2146--2146
 []\TU/lmr/m/n/10 Collaborating profes-
  []
 
-[57]
-Underfull \hbox (badness 10000) in paragraph at lines 1962--1962
+[68]
+Underfull \hbox (badness 10000) in paragraph at lines 2169--2169
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1962--1962
+Underfull \hbox (badness 10000) in paragraph at lines 2169--2169
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1962--1962
+Underfull \hbox (badness 10000) in paragraph at lines 2169--2169
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 1962--1962
+Underfull \hbox (badness 5726) in paragraph at lines 2169--2169
 []\TU/lmr/m/n/10 MILENA BARCZA STOCKLER
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 1962--1962
+Underfull \hbox (badness 1983) in paragraph at lines 2169--2169
 []\TU/lmr/m/n/10 ISABEL DE PAULA ANTUNES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1962--1962
+Underfull \hbox (badness 10000) in paragraph at lines 2169--2169
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1962--1962
+Underfull \hbox (badness 10000) in paragraph at lines 2169--2169
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1962--1962
+Underfull \hbox (badness 10000) in paragraph at lines 2169--2169
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 1962--1962
+Underfull \hbox (badness 5726) in paragraph at lines 2169--2169
 []\TU/lmr/m/n/10 MILENA BARCZA STOCKLER
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 1962--1962
+Underfull \hbox (badness 1983) in paragraph at lines 2169--2169
 []\TU/lmr/m/n/10 ISABEL DE PAULA ANTUNES
  []
 
-[58] (./autoavaliacao-2021-2024.aux)
+[69] (./autoavaliacao-2021-2024.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-14>
@@ -2704,12 +2805,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 42587 strings out of 468179
- 849499 string characters out of 5433206
- 1570018 words of memory out of 5000000
- 70674 multiletter control sequences out of 15000+600000
+ 42650 strings out of 468179
+ 850900 string characters out of 5433206
+ 1570141 words of memory out of 5000000
+ 70737 multiletter control sequences out of 15000+600000
  631776 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,19n,126p,1212b,3209s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao-2021-2024.pdf (61 pages).
+Output written on autoavaliacao-2021-2024.pdf (72 pages).
