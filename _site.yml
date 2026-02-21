@@ -254,7 +254,7 @@ navbar:
       icon: "fa-github"
       href: [https://github.com/FerreiraAS/observatorio]
 
-href: http://ppgcn.sites.uff.br
+href: https://ppgcn-uff.github.io/observatorio/
 
 output:
   html_document:
