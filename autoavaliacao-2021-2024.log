@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.16)  21 FEB 2026 15:32
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.16)  22 FEB 2026 12:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3739,17 +3739,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2161--2161
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2161--2161
-[]\TU/lmr/m/n/10 <a
- []
-
-
-Overfull \hbox (212.95483pt too wide) in paragraph at lines 2161--2161
-\TU/lmr/m/n/10 href=”https://apps.who.int/iris/handle/10665/376794”target=”_bla
-nk»World
- []
-
-
 Underfull \hbox (badness 2005) in paragraph at lines 2161--2161
 \TU/lmr/m/n/10 K. C. B., Soares, D. D. S. B., Henri-
  []
@@ -3772,17 +3761,6 @@ Underfull \hbox (badness 1038) in paragraph at lines 2161--2161
 
 Underfull \hbox (badness 3954) in paragraph at lines 2161--2161
 \TU/lmr/m/n/10 bliques en matière d’achat
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2161--2161
-[]\TU/lmr/m/n/10 <a
- []
-
-
-Overfull \hbox (212.95483pt too wide) in paragraph at lines 2161--2161
-\TU/lmr/m/n/10 href=”https://apps.who.int/iris/handle/10665/363695”target=”_bla
-nk»World
  []
 
 
@@ -4101,17 +4079,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2161--2161
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2161--2161
-[]\TU/lmr/m/n/10 <a
- []
-
-
-Overfull \hbox (212.95483pt too wide) in paragraph at lines 2161--2161
-\TU/lmr/m/n/10 href=”https://apps.who.int/iris/handle/10665/376794”target=”_bla
-nk»World
- []
-
-
 Underfull \hbox (badness 2005) in paragraph at lines 2161--2161
 \TU/lmr/m/n/10 K. C. B., Soares, D. D. S. B., Henri-
  []
@@ -4134,17 +4101,6 @@ Underfull \hbox (badness 1038) in paragraph at lines 2161--2161
 
 Underfull \hbox (badness 3954) in paragraph at lines 2161--2161
 \TU/lmr/m/n/10 bliques en matière d’achat
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2161--2161
-[]\TU/lmr/m/n/10 <a
- []
-
-
-Overfull \hbox (212.95483pt too wide) in paragraph at lines 2161--2161
-\TU/lmr/m/n/10 href=”https://apps.who.int/iris/handle/10665/363695”target=”_bla
-nk»World
  []
 
 
@@ -4262,10 +4218,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 47058 strings out of 468174
- 986803 string characters out of 5433150
+ 47050 strings out of 468174
+ 986690 string characters out of 5433150
  1656111 words of memory out of 5000000
- 75138 multiletter control sequences out of 15000+600000
+ 75130 multiletter control sequences out of 15000+600000
  631776 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,19n,126p,1212b,4800s stack positions out of 10000i,1000n,20000p,200000b,200000s
